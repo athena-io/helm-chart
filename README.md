@@ -9,7 +9,7 @@
 4. Check with `kubectl` that the BE is running:
 `kubectl get pods`
 5. Forward the port (The service listen port is 5000)
-`kubectl port-forward svc/athena-be 8888:5000`
+`kubectl port-forward svc/athena-be 5000:5000`
 
 **Note**:
 The backend server should have a fixed IP+PORT address.
