@@ -3,11 +3,11 @@ entries:
   athena-be:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-25T19:36:36.172908564+02:00"
+    created: "2019-12-25T19:48:48.708754815+02:00"
     description: A Helm chart for Kubernetes
-    digest: be7ac06743af216e0cd12d7ad6c191b5914e76d840af050f7bcd82e27c03e774
+    digest: 84432df134ba6b466da4480aae3709a3bd37c75a52b1809a427e98b356897e51
     name: athena-be
     urls:
-    - /home/leonidb/work/athena/charts/athena-be-0.5.0.tgz/athena-be-0.5.0.tgz
+    - /home/leonidb/work/helm-chart/athena-be-0.5.0.tgz/athena-be-0.5.0.tgz
     version: 0.5.0
-generated: "2019-12-25T19:36:36.172434724+02:00"
+generated: "2019-12-25T19:48:48.70838563+02:00"
