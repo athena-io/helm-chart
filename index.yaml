@@ -8,6 +8,6 @@ entries:
     digest: 80c9d1e789402800cf65cea16694a5b754eaf82d9ef69d871f2f177d1b1bae1f
     name: athena-be
     urls:
-    - /home/leonidb/work/helm-chart/athena-be-0.5.0.tgz/athena-be-0.5.0.tgz
+    - https://athena-io.github.io/helm-chart/athena-be-0.5.0.tgz
     version: 0.5.0
 generated: "2019-12-25T20:02:22.972057795+02:00"
