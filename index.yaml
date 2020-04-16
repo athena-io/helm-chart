@@ -3,7 +3,7 @@ entries:
   athena-be:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-16T02:18:20.209184704Z"
+    created: "2020-04-16T05:21:25.425402179Z"
     description: A Helm chart for Kubernetes
     digest: 80c9d1e789402800cf65cea16694a5b754eaf82d9ef69d871f2f177d1b1bae1f
     name: athena-be
@@ -13,11 +13,11 @@ entries:
   lightrun-be:
   - apiVersion: v2
     appVersion: 0.7.0
-    created: "2020-04-16T02:18:20.209601238Z"
+    created: "2020-04-16T05:21:25.425866336Z"
     description: Helm chart for Lightrun's server
-    digest: 5a629e03c9bb221bf7849e377bd77f19f49611573aaedeea696437cb179bc7e1
+    digest: fc36e9aaaf51c1dc7461af6ab63137eeca6e2a0919e1bf26806a4ae2776a0200
     name: lightrun-be
     urls:
     - https://athena-io.github.io/helm-chart/lightrun-be-0.7.0.tgz
     version: 0.7.0
-generated: "2020-04-16T02:18:20.208590567Z"
+generated: "2020-04-16T05:21:25.424758184Z"
