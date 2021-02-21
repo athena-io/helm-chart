@@ -3,7 +3,7 @@ entries:
   athena-be:
   - apiVersion: v2
     appVersion: 0.7.0
-    created: "2021-02-21T14:06:11.535606977Z"
+    created: "2021-02-21T16:51:45.856309825Z"
     description: A Helm chart for Kubernetes
     digest: c1594d0480328177301cd5221278cb7eb6b9f2cbf319004a3646ef0896e96716
     name: athena-be
@@ -12,7 +12,7 @@ entries:
     version: 0.7.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-02-21T14:06:11.535159653Z"
+    created: "2021-02-21T16:51:45.855917644Z"
     description: A Helm chart for Kubernetes
     digest: 80c9d1e789402800cf65cea16694a5b754eaf82d9ef69d871f2f177d1b1bae1f
     name: athena-be
@@ -22,16 +22,16 @@ entries:
   lightrun-be:
   - apiVersion: v2
     appVersion: 0.9.5
-    created: "2021-02-21T14:06:11.536935103Z"
+    created: "2021-02-21T16:51:45.865165016Z"
     description: Helm chart for Lightrun's server
-    digest: b29b4d12df65df79cd784a2749e044b4b07a69d44e4431c27c68385042fecaba
+    digest: b6f3bd917fdcfb753db36d4a378282b7cfe486bc2cfdb9ff0ab5590125071981
     name: lightrun-be
     urls:
     - https://lightrun-platform.github.io/helm-chart/lightrun-be-0.9.5.tgz
     version: 0.9.5
   - apiVersion: v2
     appVersion: 0.9.0
-    created: "2021-02-21T14:06:11.536447694Z"
+    created: "2021-02-21T16:51:45.862302736Z"
     description: Helm chart for Lightrun's server
     digest: 4e0b43b466bfe491d1bc9050933ecb172d8bac0a7fce03dc29731c74a43623a2
     name: lightrun-be
@@ -40,11 +40,11 @@ entries:
     version: 0.9.0
   - apiVersion: v2
     appVersion: 0.7.0
-    created: "2021-02-21T14:06:11.536007476Z"
+    created: "2021-02-21T16:51:45.861850398Z"
     description: Helm chart for Lightrun's server
     digest: 83369f555dd7fcaa76b263fad70499b84a084990a3e02d8e1a31cf14d2a0432c
     name: lightrun-be
     urls:
     - https://lightrun-platform.github.io/helm-chart/lightrun-be-0.7.0.tgz
     version: 0.7.0
-generated: "2021-02-21T14:06:11.533334807Z"
+generated: "2021-02-21T16:51:45.855365327Z"
